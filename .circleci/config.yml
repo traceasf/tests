@@ -7,4 +7,4 @@ jobs:
       - checkout
       - run:
           name: "Testing"
-          command: pip install requests; python test.py; echo works
+          command: pip install requests; python lol.py; echo works
